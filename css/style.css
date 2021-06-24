@@ -1,0 +1,17 @@
+#myvideo{
+    position: fixed;
+}
+.head{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+.top{
+    text-align: center;
+    color: aliceblue;
+    position: center;
+  padding-right: 70%; 
+}
+button{
+    border-radius: 25px;
+}
